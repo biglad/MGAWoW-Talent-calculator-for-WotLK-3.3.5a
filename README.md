@@ -1,2 +1,2 @@
 # MGAWoW WotLK Talent Calc
-![Screenshot](exampleimage1.jpg)
+[![exampleimage.jpg](https://i.postimg.cc/YSRDZqrk/exampleimage.jpg)](https://postimg.cc/MccYjwfr)
