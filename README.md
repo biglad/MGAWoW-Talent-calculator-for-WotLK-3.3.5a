@@ -1,2 +1,2 @@
-# Offline-talent-calculator-for-WotLK-3.3.5a
+# MGAWoW WotLK Talent Calc
 ![Screenshot](exampleimage.jpg)
