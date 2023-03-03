@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>CraftedRO | Shaman Talents</title>
+<title>MGAWoW | Shaman Talents</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link href="talents/Shaman/talent.css" type="text/css" rel="stylesheet">
 <link rel="shortcut icon" href="images/favicon.ico">

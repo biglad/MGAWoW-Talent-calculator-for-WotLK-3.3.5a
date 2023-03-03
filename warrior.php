@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>CraftedRO | Warrior Talents</title>
+<title>MGAWoW | Warrior Talents</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link href="talents/Warrior/talent.css" type="text/css" rel="stylesheet">
 <link rel="shortcut icon" href="images/favicon.ico">

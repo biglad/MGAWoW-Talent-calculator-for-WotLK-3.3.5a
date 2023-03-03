@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>CraftedRO | Warlock Talents</title>
+<title>MGAWoW | Warlock Talents</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link href="talents/Warlock/talent.css" type="text/css" rel="stylesheet">
 <link rel="shortcut icon" href="images/favicon.ico">

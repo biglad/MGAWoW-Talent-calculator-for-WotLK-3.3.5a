@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>CraftedRO | Paladin Talents</title>
+<title>MGAWoW | Paladin Talents</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link href="talents/Paladin/talent.css" type="text/css" rel="stylesheet">
 <link rel="shortcut icon" href="images/favicon.ico">

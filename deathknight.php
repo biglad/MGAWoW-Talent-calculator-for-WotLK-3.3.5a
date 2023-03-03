@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>CraftedRO | Death Knight Talents</title>
+<title>MGAWoW | Death Knight Talents</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link href="talents/Deathknight/talent.css" type="text/css" rel="stylesheet">
 <link rel="shortcut icon" href="images/favicon.ico">
