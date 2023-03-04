@@ -9,7 +9,7 @@
 <body text="#FFFFFF" vlink="#45ACF6" link="#45ACF6" bgcolor="black" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0">
 <br>
 <center>
-<a href="./index.html" title="Home"><img src="images/logo.png" alt="logo"></a>
+<a href="http://mgawow.online" title="Home"><img src="images/logo.png" alt="logo"></a>
 <br>
 <div>
 <a href="deathknight.php"><img src="./class-images/class/deathknight.jpg" style="box-shadow: 0 0 5px 1px #8ab4f8;"></a>
