@@ -41,5 +41,8 @@ var theURLtoCopy = "<?php echo 'http://'.$_SERVER['HTTP_HOST'].$_SERVER['SCRIPT_
 <script type="text/javascript" src="talents/Mage/arraysFill.js"></script>
 <script type="text/javascript" src="talents/Mage/printOutTop.js"></script>
 <BR><BR>
+<?PHP
+include("add.php");
+?>
 </body>
 </html>
